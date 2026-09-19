@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:wght@600;700&display=swap');
-:root{--ink:#24211d;--muted:#706a61;--cream:#f5f0e6;--paper:#fffdf8;--line:#d9d0c0;--accent:#8b2f22;--dark:#26231f}
-.hero {
+:root{--ink:#24211d;--muted:#706a61;--cream:#f5f0e6;--paper:#fffdf8;--line:#d9d0c0;--accent:#8b2f22;--dark:#26231f}.hero {
   min-height: 590px;
   display: grid;
   align-items: end;
